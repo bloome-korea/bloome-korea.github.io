@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bloome-korea.github.io/sitemap.xml
+Sitemap: https://bloomelove.com/sitemap.xml
